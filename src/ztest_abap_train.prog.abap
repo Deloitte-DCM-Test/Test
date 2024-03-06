@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ztest_abap_train.
 
-WRITE: 'kalispera'.
+WRITE: 'kalimera'.
